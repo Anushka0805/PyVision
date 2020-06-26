@@ -6,12 +6,10 @@ The idea is to extract the _content_ from one image, the 'content image', and th
 
 ## Here are some of the results
 Output Images:
-
-
 ![](/output/content1+style6.png)
 
 
-## Steps require to run:
+## Steps required to run:
 
 from pyvision.NeuralStyleTransfer.neural_style import Neural_Style
 
