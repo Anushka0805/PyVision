@@ -7,9 +7,9 @@ The idea is to extract the _content_ from one image, the 'content image', and th
 ## Here are some of the results
 Output Images:
 
-![Output](/output/content1+style6.png)
-![](/output/content4+style1.png)
-![](/output/content6+style7.png)
+
+![](/output/content1+style6.png)
+
 
 ## Steps require to run:
 
