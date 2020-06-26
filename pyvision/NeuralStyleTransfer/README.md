@@ -24,5 +24,3 @@ output = nst.run_style_transfer(style_img, content_img)
 
 nst.imshow(output)
 
-## Some of the outputs
-![output1] (/output/content1+style6.png)
